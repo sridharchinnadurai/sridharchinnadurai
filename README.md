@@ -178,7 +178,7 @@ finding unexpected behavior, and learning how to improve software quality.
 
 💻 **GitHub:** sridharchinnadurai
 
-🔗 **LinkedIn:** Add your LinkedIn profile here
+🔗 **LinkedIn:** https://www.linkedin.com/in/sridharctester/
 
 ---
 
