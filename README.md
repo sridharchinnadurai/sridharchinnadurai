@@ -198,7 +198,7 @@ software.
 
 💻 **GitHub:** sridharchinnadurai
 
-🔗 **LinkedIn:** sridharctester
+🔗 **LinkedIn:** https://www.linkedin.com/in/sridharctester/
 
 📍 **Chennai, India**
 
