@@ -1,140 +1,159 @@
-# 👋 Hi, I'm Sridhar C
+# Hi, I'm Sridhar C 👋
 
-### 🧪 Software Testing | QA Engineer | Manual & Automation Testing
-
-I'm a Software Testing professional who enjoys finding problems, understanding how
-software behaves, and helping build better-quality applications.
-
-I gained hands-on experience in **Manual Testing and Automation Testing** during
-my 6-month internship at **Besant Technologies**. I'm also familiar with API
-testing, defect tracking, databases, Agile practices, and test automation using
-Selenium.
-
-I believe good testing is not just about finding bugs — it's about understanding
-the product, thinking from the user's perspective, and continuously improving
-software quality.
+### Software Testing | QA Engineer | Manual Testing | Automation Testing | Selenium
 
 ---
 
-## 🧑‍💻 About Me
+## 🧪 About Me
 
-- 🔍 Interested in **Software Testing & Quality Assurance**
-- 🧪 Hands-on experience in **Manual & Automation Testing**
-- 🤖 Working with **Selenium WebDriver**
-- 🌐 Familiar with **API Testing & Postman**
-- 🐞 Experience with **defect identification & tracking**
-- 📋 Knowledge of **SDLC & STLC**
-- 🔄 Familiar with **Agile Scrum**
-- 🗄️ Working knowledge of **MySQL & Snowflake**
-- 💻 Programming knowledge in **Java & Python**
-- 🌱 Continuously learning and improving my testing skills
+I'm a Software Testing professional with hands-on experience in Manual Testing
+and Automation Testing through a 6-month internship at Besant Technologies.
 
----
+I enjoy exploring applications, executing test cases, identifying defects,
+and understanding how software behaves from a user's perspective.
 
-# 🧪 Testing Skills
+My current testing experience includes web application testing, Selenium
+automation, API testing, defect tracking, and software testing practices
+within SDLC, STLC, and Agile environments.
 
-| 🔬 Testing Area | Skills |
-|---|---|
-| Manual Testing | Test Cases, Test Execution, Defect Identification |
-| Functional Testing | Functional Validation |
-| Regression Testing | Regression Testing |
-| Smoke Testing | Smoke Testing |
-| API Testing | API Testing, Postman |
-| Automation | Selenium WebDriver |
-| Methodologies | SDLC, STLC, Agile Scrum |
-| Defect Management | Defect Identification & Tracking |
+- 🎓 B.Tech in Artificial Intelligence and Data Science
+- 💼 6-month Software Testing Internship at Besant Technologies
+- 🧪 Manual & Automation Testing experience
+- 🤖 Selenium WebDriver
+- 🌐 API Testing & Postman
+- 🐞 Defect Identification & Tracking
+- 🗄️ MySQL & Snowflake
+- 💻 Java & Python
+- 🔧 Git, GitHub & Jira
+- 📍 Chennai, India
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-### 🔹 Testing & QA
+### 🧪 Testing & QA
 
-`Selenium WebDriver` `Postman` `Jira`
+`Manual Testing` `Automation Testing` `Functional Testing`
 
-### 🔹 Programming
+`Regression Testing` `Smoke Testing` `API Testing`
+
+`Test Case Execution` `Defect Tracking`
+
+### 🤖 Automation
+
+`Selenium WebDriver`
+
+### 💻 Programming
 
 `Java` `Python`
 
-### 🔹 Databases
+### 🌐 API & Tools
+
+`Postman` `Jira`
+
+### 🗄️ Databases
 
 `MySQL` `Snowflake`
 
-### 🔹 Version Control
+### 🔧 Version Control
 
 `Git` `GitHub`
 
-### 🔹 Development & Testing Practices
+### 🔄 Methodologies
 
 `SDLC` `STLC` `Agile Scrum`
 
 ---
 
-# 💼 Internship Experience
+## 💼 Internship Experience
 
-### 🏢 Software Testing Intern — Besant Technologies
+### Software Testing Intern — Besant Technologies
 
 **Duration: 6 Months**
 
-During my internship, I gained practical exposure to software testing and
-worked with both manual and automation testing.
+During my internship, I gained practical exposure to both Manual Testing
+and Automation Testing.
 
-### What I worked on
+### Key Responsibilities
 
-- 🧪 Executed test cases
+- 🧪 Executed test cases for web applications
 - 🔍 Identified software defects
 - 🐞 Reported and tracked defects
-- 🌐 Tested web applications
+- 🌐 Tested web applications for functionality and quality
 - 🤖 Worked with Selenium for automation testing
-- ✅ Focused on application quality and functionality
+- ✅ Verified application functionality and software quality
 
 ---
 
 # 🚀 Projects
 
-## 🔬 SkinSight
-### An Intelligent Vision System for Early Skin Cancer Detection
+## 🔬 SkinSight — Intelligent Vision System for Early Skin Cancer Detection
 
-An AI-powered application developed to classify skin lesions as benign or
-malignant.
+An AI-powered application developed to classify skin lesions as benign
+or malignant.
 
 ### 🛠️ Technologies
 
 `TensorFlow` `Keras` `ResNet50` `Streamlit`
 
-### What I worked on
+### 📌 Highlights
 
-- Developed an AI-powered classification application using ResNet50
-- Built an interactive Streamlit interface
+- Developed an AI-powered image classification application using ResNet50
+- Built an interactive Streamlit web interface
 - Implemented image upload and prediction functionality
 
 ---
 
-## 🤖 Hybrid Generative Framework
-### Probabilistic Multi-Path Decisions Analysis and Context Visualization
+## 🤖 Hybrid Generative Framework for Probabilistic Multi-Path Decisions Analysis and Context Visualization
 
-An AI platform developed to visualize probabilistic decision paths based on
-dream-pattern analysis.
+An AI platform developed to visualize probabilistic decision paths based
+on dream-pattern analysis.
 
 ### 🛠️ Technologies
 
 `Python` `TensorFlow` `Keras` `Streamlit`
+
 `Plotly` `Pandas` `Scikit-Learn` `Joblib`
 
-### What I worked on
+### 📌 Highlights
 
-- Developed an AI platform for probabilistic decision-path visualization
+- Developed an AI platform for visualizing probabilistic decision paths
 - Created interactive visualizations for prediction outcomes
+- Worked with machine learning and data visualization technologies
+
+---
+
+# 📊 Project Summary
+
+| # | Project | Type | Technologies |
+|---|---|---|---|
+| 1 | SkinSight | AI / Computer Vision | TensorFlow, Keras, ResNet50, Streamlit |
+| 2 | Hybrid Generative Framework | AI / Visualization | Python, TensorFlow, Keras, Plotly, Pandas |
+| 3 | Software Testing Internship | Manual & Automation Testing | Selenium, Jira, Postman, Java, Python |
+
+---
+
+# 🧪 Testing Knowledge
+
+| Area | Knowledge |
+|---|---|
+| Manual Testing | Test Case Execution, Defect Identification |
+| Functional Testing | Functional Validation |
+| Regression Testing | Regression Testing |
+| Smoke Testing | Smoke Testing |
+| API Testing | API Testing, Postman |
+| Automation Testing | Selenium WebDriver |
+| Defect Management | Defect Identification & Tracking |
+| Methodologies | SDLC, STLC, Agile Scrum |
+| Databases | MySQL, Snowflake |
 
 ---
 
 # 📚 Certifications
 
-🎓 **AWS Cloud Technical Essentials** — Coursera
-
-🎓 **Introduction to Software Engineering** — Coursera
-
-🎓 **Introduction to Cloud Computing** — Coursera
+- AWS Cloud Technical Essentials — Coursera
+- Introduction to Software Engineering — Coursera
+- Introduction to Cloud Computing — Coursera
 
 ---
 
@@ -144,41 +163,44 @@ dream-pattern analysis.
 
 **Erode Sengunthar Engineering College**
 
-📅 2022 – 2026  
-📊 CGPA: 7.0 / 10
+2022 – 2026 | CGPA: 7.0 / 10
 
 ---
 
 # 🌱 Currently Learning
 
-I'm continuously improving my skills in:
-
-🧪 Manual Testing  
-🤖 Test Automation  
-🔍 Software Quality Assurance  
-🌐 API Testing  
-💻 Selenium  
-🗄️ SQL & Database Testing  
-📚 Practical QA Projects
+- 🧪 Advanced Manual Testing
+- 🤖 Test Automation
+- 🌐 API Testing
+- 💻 Selenium
+- 🗄️ SQL & Database Testing
+- 📋 Building practical QA projects
+- 🔍 Software Quality Assurance
 
 ---
 
-# 🎯 My Testing Mindset
+# 🎯 My Testing Approach
 
-> **"Find the problem before the user finds it."**
+> "Quality is not an act, it is a habit."  
+> — Aristotle
 
-I enjoy exploring applications, thinking about different user scenarios,
-finding unexpected behavior, and learning how to improve software quality.
+I believe good testing is about more than finding defects.
+
+It is about understanding requirements, thinking about different user
+scenarios, exploring unexpected behavior, and helping deliver reliable
+software.
 
 ---
 
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
 📧 **Email:** sridharmchinnadurai@gmail.com
 
 💻 **GitHub:** sridharchinnadurai
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/sridharctester/
+🔗 **LinkedIn:** sridharctester
+
+📍 **Chennai, India**
 
 ---
 
